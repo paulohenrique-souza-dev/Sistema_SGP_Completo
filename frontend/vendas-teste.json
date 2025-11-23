@@ -1,0 +1,53 @@
+[
+  {
+    "id": "v1",
+    "cliente": {
+      "id": "c1",
+      "nome": "João Silva"
+    },
+    "dataVenda": "2025-11-20T10:00:00",
+    "valorTotal": 179.8,
+    "itens": [
+      {
+        "produto": { "nome": "Mouse Sem Fio LogitecX M180", "preco": 89.9 },
+        "quantidade": 2,
+        "precoUnitario": 89.9,
+        "subtotal": 179.8
+      }
+    ]
+  },
+  {
+    "id": "v2",
+    "cliente": {
+      "id": "c2",
+      "nome": "Maria Oliveira"
+    },
+    "dataVenda": "2025-11-20T11:00:00",
+    "valorTotal": 389.0,
+    "itens": [
+      {
+        "produto": { "nome": "Teclado Mecânico RazorX Storm", "preco": 389.0 },
+        "quantidade": 1,
+        "precoUnitario": 389.0,
+        "subtotal": 389.0
+      }
+    ]
+  },
+  {
+    "id": "v3",
+    "cliente": {
+      "id": "c3",
+      "nome": "Carlos Pereira"
+    },
+    "dataVenda": "2025-11-20T12:00:00",
+    "valorTotal": 329.0,
+    "itens": [
+      {
+        "produto": { "nome": "SSD KingStore 512GB NVMe", "preco": 329.0 },
+        "quantidade": 1,
+        "precoUnitario": 329.0,
+        "subtotal": 329.0
+      }
+    ]
+  }
+]

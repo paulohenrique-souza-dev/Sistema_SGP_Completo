@@ -1,0 +1,13 @@
+body {
+    background-color:#red; !important;
+    color: #ffffff !important;
+}
+
+.swagger-ui .topbar {
+    background-color: #0077cc !important;
+}
+
+.opblock {
+    background-color: #222 !important;
+    border-radius: 8px;
+}
